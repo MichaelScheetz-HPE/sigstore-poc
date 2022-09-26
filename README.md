@@ -4,6 +4,7 @@ Playground for building an example e2e pipeline using Tekton Pipelines, Chains, 
 
 # Get started
 
+
 1. Setup Kubernetes Cluster
 2. Install Tekton Pipelines, Chains, and Dashboards
 3. Install Rekor and Fulcio
